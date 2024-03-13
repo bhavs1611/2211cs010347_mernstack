@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/2211cs010347_mernstack/static/css/main.db62923b.css",
-    "main.js": "/2211cs010347_mernstack/static/js/main.ab181da2.js",
-    "static/js/453.fe1ce7be.chunk.js": "/2211cs010347_mernstack/static/js/453.fe1ce7be.chunk.js",
-    "index.html": "/2211cs010347_mernstack/index.html",
-    "main.db62923b.css.map": "/2211cs010347_mernstack/static/css/main.db62923b.css.map",
-    "main.ab181da2.js.map": "/2211cs010347_mernstack/static/js/main.ab181da2.js.map",
-    "453.fe1ce7be.chunk.js.map": "/2211cs010347_mernstack/static/js/453.fe1ce7be.chunk.js.map"
+    "main.css": "/bhavs1611/2211cs010347_mernstack/static/css/main.0bc3806b.css",
+    "main.js": "/bhavs1611/2211cs010347_mernstack/static/js/main.b524159b.js",
+    "static/js/453.885dca90.chunk.js": "/bhavs1611/2211cs010347_mernstack/static/js/453.885dca90.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/bhavs1611/2211cs010347_mernstack/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/bhavs1611/2211cs010347_mernstack/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/bhavs1611/2211cs010347_mernstack/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/bhavs1611/2211cs010347_mernstack/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/bhavs1611/2211cs010347_mernstack/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/bhavs1611/2211cs010347_mernstack/index.html",
+    "main.0bc3806b.css.map": "/bhavs1611/2211cs010347_mernstack/static/css/main.0bc3806b.css.map",
+    "main.b524159b.js.map": "/bhavs1611/2211cs010347_mernstack/static/js/main.b524159b.js.map",
+    "453.885dca90.chunk.js.map": "/bhavs1611/2211cs010347_mernstack/static/js/453.885dca90.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db62923b.css",
-    "static/js/main.ab181da2.js"
+    "static/css/main.0bc3806b.css",
+    "static/js/main.b524159b.js"
   ]
 }
